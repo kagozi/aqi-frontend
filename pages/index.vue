@@ -1,5 +1,5 @@
 <template>
   <div>
-    <Button>Click me</Button>
+    <p>Hello World</p>
   </div>
 </template>
